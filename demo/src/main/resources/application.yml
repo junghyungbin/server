@@ -1,0 +1,5 @@
+spring:
+    database:
+      url: jdbc:mysql://16.170.153.173:3306/filelist
+      username: uroot
+      password: root
