@@ -1,5 +1,4 @@
 spring:
     database:
-      url: jdbc:mysql://16.170.153.173:3306/filelist
-      username: uroot
-      password: root
+      url: jdbc:mysql://mysql-container:3306/test
+      username: root
